@@ -9,6 +9,7 @@ $users = require('users.php');
 	<title>User Table</title>
 </head>
 <body>
+	<h1>Mon jolie Tableau</h1>
 	<table>
 		<tr>
 			<td>ID</td>
